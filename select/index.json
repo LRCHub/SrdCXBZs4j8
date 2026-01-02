@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "What Call This Day ?（feat. にんじん）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-01-02T15:04:09.598070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Call This Day ? (feat. Ninzin)",
+      "artist": "Mimi",
+      "has_synced": true,
+      "path": "select/01_What_Call_This_Day___(feat._Ninzin)_Mimi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What Call This Day ? (feat. Ninzin)",
+      "artist": "Mimi / Ninzin",
+      "has_synced": true,
+      "path": "select/02_What_Call_This_Day___(feat._Ninzin)_Mimi___Ninzin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What Call This Day ? (feat. にんじん)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_What_Call_This_Day___(feat._にんじん)_MIMI.txt"
+    }
+  ]
+}
